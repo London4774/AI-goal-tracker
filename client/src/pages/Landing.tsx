@@ -21,7 +21,7 @@ function Landing() {
               <section id='features'>
                 <Features />
               </section>
-              
+
               <section id="about">
                   <About />
               </section>
